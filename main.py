@@ -6,7 +6,7 @@ import easyocr
 import requests
 
 # Bot API Token yahan dalein (BotFather wala Token)
-BOT_TOKEN = 8920265890:AAEVjYmbKS9V9BbFtOfLjYj6_3ZXzwun59k
+BOT_TOKEN = "8920265890:AAEVjYmbKS9V9BbFtOfLjYj6_3ZXzwun59k"
 bot = telebot.TeleBot(BOT_TOKEN)
 
 # EasyOCR Reader setup (Japanese & English support)
